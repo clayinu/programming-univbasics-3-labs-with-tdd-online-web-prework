@@ -4,4 +4,6 @@ second_number = 2
 
 sum = first_number + second_number
 
-# Add your variables here
+difference = second_number - first_number
+
+product = # Add your variables here
