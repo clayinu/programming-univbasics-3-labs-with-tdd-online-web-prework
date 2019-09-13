@@ -8,6 +8,6 @@ difference = second_number - first_number
 
 product = first_number * second_number
 
-quotient second_number / first_number
+quotient = second_number / first_number
 
 # Add your variables here
